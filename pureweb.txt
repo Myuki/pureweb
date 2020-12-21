@@ -83,6 +83,10 @@ mp.weixin.qq.com##.rich_media_area_extra
 ||www.tsdm39.net/weibo.html$subdocument
 www.tsdm39.net###ts_sidebar_base
 
+! youtube.com
+!! www.youtube.com
+www.youtube.com###comments
+
 ! zhihu.com
 !! www.zhihu.com
 www.zhihu.com##.AppHeader.Sticky
