@@ -1,0 +1,94 @@
+! baidu.com
+!! baike.baidu.com Desktop
+baike.baidu.com##.before-content
+baike.baidu.com##.lemmaWgt-promotion-slide
+baike.baidu.com##.lemmaWgt-promotion-vbaike
+baike.baidu.com##.lemmaWgt-searchHeader
+baike.baidu.com##.navbar-wrapper
+baike.baidu.com##.pc-header-new.header-wrapper
+baike.baidu.com##.tashuo-bottom
+baike.baidu.com##.tashuo-right
+baike.baidu.com##.top-tool
+!! baike.baidu.com Mobile
+baike.baidu.com##*.tool-right-btn
+baike.baidu.com##.BK-after-content-wrapper
+baike.baidu.com##.full-screen-second_prestrain
+baike.baidu.com##.rt-head
+baike.baidu.com##.squareAni.square.super-layer-promote
+baike.baidu.com##.tashuo-button-fixed.button-fixed
+!! tieba.baidu.com
+tieba.baidu.com##.aside
+tieba.baidu.com##.j_search_nav.search_nav
+tieba.baidu.com##.tbui_aside_float_bar
+tieba.baidu.com##.tieba-custom-pass-login
+tieba.baidu.com##li.clearfix.thread_top.j_thread_list:nth-of-type(1)
+
+! bilibili.com
+!! live.bilibili.com
+live.bilibili.com##.side-bar-cntr
+!! t.bilibili.com
+t.bilibili.com##.right-panel
+www.bilibili.com###reco_list > .rec-title
+www.bilibili.com##.common
+www.bilibili.com##.r-con > .report-scroll-module.report-wrap-module.ad-floor.ad-report
+www.bilibili.com##.rec-footer
+www.bilibili.com##.rec-list
+www.bilibili.com##.report-scroll-module.report-wrap-module.pop-live
+www.bilibili.com##.report-scroll-module.report-wrap-module.review-module
+www.bilibili.com##.report-scroll-module.report-wrap-module.s_tag
+
+! bing.com
+!! cn.bing.com
+cn.bing.com###b_context
+cn.bing.com##.b_cards.tipContainer
+cn.bing.com##.ev_talkbox_notification
+cn.bing.com##li.b_ans:nth-of-type(14)
+
+! csdn.net
+!! blog.csdn.net
+||passport.csdn.net/account/
+blog.csdn.net###csdn-toolbar
+blog.csdn.net##.blog_container_aside
+blog.csdn.net##.comment-box
+blog.csdn.net##.csdn-side-toolbar
+blog.csdn.net##.login-mark
+blog.csdn.net##.more-toolbox
+blog.csdn.net##.recommend-box
+
+! duckduckgo.com
+duckduckgo.com##.js-results-sidebar.results--sidebar
+
+! lightnovel.us
+!! www.lightnovel.us
+www.lightnovel.us##.fixed-download
+
+! mora.jp
+||mora.jp/pc/img/jack/$image
+mora.jp##header > .boxShadow.jack.jack_r
+mora.jp##header > .boxShadow.jack.left_jack
+
+! pawoo.net
+||pawoo.net/packs/media/pawoo/images/about/banner-$image
+pawoo.net##.pawoo-kyoa-home
+
+! qq.com
+!! mp.weixin.qq.com
+||mp.weixin.qq.com/mp/qrcode$image
+mp.weixin.qq.com##.js-evernote-checked.qr_code_pc
+mp.weixin.qq.com##.qr_code_pc
+mp.weixin.qq.com##.rich_media_area_extra
+
+! tsdm39.net
+!! www.tsdm39.net
+||www.tsdm39.net/weibo.html$subdocument
+www.tsdm39.net###ts_sidebar_base
+
+! zhihu.com
+!! www.zhihu.com
+www.zhihu.com##.AppHeader.Sticky
+www.zhihu.com##.Question-sideColumn--sticky.Question-sideColumn
+!! zhuanlan.zhihu.com
+zhuanlan.zhihu.com##.ColumnPageHeader-Wrapper
+zhuanlan.zhihu.com##.Post-NormalSub.Post-Sub
+zhuanlan.zhihu.com##.is-bottom.RichContent-actions.Sticky
+
