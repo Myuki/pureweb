@@ -1,21 +1,27 @@
 ! baidu.com
 !! baike.baidu.com Desktop
-baike.baidu.com##.before-content
-baike.baidu.com##.lemmaWgt-promotion-slide
-baike.baidu.com##.lemmaWgt-promotion-vbaike
+baike.baidu.com##.J-secondsknow-large-container
+baike.baidu.com##.cmn-btn-28.cmn-btn-hover-blue
 baike.baidu.com##.lemmaWgt-searchHeader
 baike.baidu.com##.navbar-wrapper
 baike.baidu.com##.pc-header-new.header-wrapper
-baike.baidu.com##.tashuo-bottom
-baike.baidu.com##.tashuo-right
+baike.baidu.com##.posterFlag.excellent-icon
+baike.baidu.com##.side-content
 baike.baidu.com##.top-tool
 !! baike.baidu.com Mobile
-baike.baidu.com##*.tool-right-btn
+baike.baidu.com###J-extra-container
+baike.baidu.com###J-loft-edit
+baike.baidu.com###J-super-layer-promote
+baike.baidu.com###J-tashuo-button-fixed
 baike.baidu.com##.BK-after-content-wrapper
-baike.baidu.com##.full-screen-second_prestrain
+baike.baidu.com##.BK-body-header-wrapper
+baike.baidu.com##.J-news-container.news-container
+baike.baidu.com##.audio-play
+baike.baidu.com##.college-head-video
+baike.baidu.com##.layout-icons_down-arrow
+baike.baidu.com##.layout-icons_more-horizontal.layout-icons
 baike.baidu.com##.rt-head
-baike.baidu.com##.squareAni.square.super-layer-promote
-baike.baidu.com##.tashuo-button-fixed.button-fixed
+baike.baidu.com##.tool-right-btn
 !! tieba.baidu.com
 tieba.baidu.com##.aside
 tieba.baidu.com##.j_search_nav.search_nav
