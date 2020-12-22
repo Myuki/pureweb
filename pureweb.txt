@@ -22,12 +22,15 @@ baike.baidu.com##.layout-icons_down-arrow
 baike.baidu.com##.layout-icons_more-horizontal.layout-icons
 baike.baidu.com##.rt-head
 baike.baidu.com##.tool-right-btn
-!! tieba.baidu.com
+!! tieba.baidu.com Desktop
 tieba.baidu.com##.aside
 tieba.baidu.com##.j_search_nav.search_nav
+tieba.baidu.com##.tbui_afb_compact.tbui_aside_float_bar
 tieba.baidu.com##.tbui_aside_float_bar
 tieba.baidu.com##.tieba-custom-pass-login
-tieba.baidu.com##li.clearfix.thread_top.j_thread_list:nth-of-type(1)
+!! tieba.baidu.com Mobile
+tieba.baidu.com##.title
+tieba.baidu.com##.nav-bar-wrapper
 
 ! bilibili.com
 !! live.bilibili.com
