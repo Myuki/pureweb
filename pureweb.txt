@@ -5,7 +5,7 @@ baike.baidu.com##.cmn-btn-28.cmn-btn-hover-blue
 baike.baidu.com##.lemmaWgt-searchHeader
 baike.baidu.com##.navbar-wrapper
 baike.baidu.com##.pc-header-new.header-wrapper
-baike.baidu.com##.posterFlag.excellent-icon
+baike.baidu.com##.posterFlag
 baike.baidu.com##.side-content
 baike.baidu.com##.top-tool
 !! baike.baidu.com Mobile
@@ -18,6 +18,7 @@ baike.baidu.com##.BK-body-header-wrapper
 baike.baidu.com##.J-news-container.news-container
 baike.baidu.com##.audio-play
 baike.baidu.com##.college-head-video
+baike.baidu.com##.full-screen-second-container
 baike.baidu.com##.layout-icons_down-arrow
 baike.baidu.com##.layout-icons_more-horizontal.layout-icons
 baike.baidu.com##.rt-head
