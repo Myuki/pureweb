@@ -98,6 +98,8 @@ www.tsdm39.net###ts_sidebar_base
 www.youtube.com###comments
 
 ! zhihu.com
+!! daily.zhihu.com
+daily.zhihu.com##.ZhihuDailyOIABanner
 !! www.zhihu.com
 www.zhihu.com##.AppHeader.Sticky
 www.zhihu.com##.Question-sideColumn--sticky.Question-sideColumn
