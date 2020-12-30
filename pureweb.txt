@@ -39,7 +39,6 @@ live.bilibili.com##.side-bar-cntr
 !! t.bilibili.com
 t.bilibili.com##.right-panel
 www.bilibili.com###reco_list > .rec-title
-www.bilibili.com##.common
 www.bilibili.com##.r-con > .report-scroll-module.report-wrap-module.ad-floor.ad-report
 www.bilibili.com##.rec-footer
 www.bilibili.com##.rec-list
@@ -59,7 +58,6 @@ cn.bing.com##li.b_ans:nth-of-type(14)
 ||passport.csdn.net/account/
 blog.csdn.net###csdn-toolbar
 blog.csdn.net##.blog_container_aside
-blog.csdn.net##.comment-box
 blog.csdn.net##.csdn-side-toolbar
 blog.csdn.net##.login-mark
 blog.csdn.net##.more-toolbox
@@ -93,10 +91,6 @@ mp.weixin.qq.com##.rich_media_area_extra
 ||www.tsdm39.net/weibo.html$subdocument
 www.tsdm39.net###ts_sidebar_base
 
-! youtube.com
-!! www.youtube.com
-www.youtube.com###comments
-
 ! zhihu.com
 !! daily.zhihu.com
 daily.zhihu.com##.ZhihuDailyOIABanner
@@ -105,6 +99,5 @@ www.zhihu.com##.AppHeader.Sticky
 www.zhihu.com##.Question-sideColumn--sticky.Question-sideColumn
 !! zhuanlan.zhihu.com
 zhuanlan.zhihu.com##.ColumnPageHeader-Wrapper
-zhuanlan.zhihu.com##.Post-NormalSub.Post-Sub
-zhuanlan.zhihu.com##.is-bottom.RichContent-actions.Sticky
-
+zhuanlan.zhihu.com##.Post-SideActions
+zhuanlan.zhihu.com##.Recommendations-Main
