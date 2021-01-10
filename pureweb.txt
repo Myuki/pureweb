@@ -16,6 +16,7 @@ baike.baidu.com###J-tashuo-button-fixed
 baike.baidu.com##.BK-after-content-wrapper
 baike.baidu.com##.BK-body-header-wrapper
 baike.baidu.com##.J-news-container.news-container
+baike.baidu.com##.J-wgt-seconds-know-container
 baike.baidu.com##.audio-play
 baike.baidu.com##.college-head-video
 baike.baidu.com##.full-screen-second-container
