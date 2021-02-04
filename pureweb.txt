@@ -97,9 +97,12 @@ www.tsdm39.net###ts_sidebar_base
 ! zhihu.com
 !! daily.zhihu.com
 daily.zhihu.com##.ZhihuDailyOIABanner
-!! www.zhihu.com
+!! www.zhihu.com Desktop
 www.zhihu.com##.AppHeader.Sticky
 www.zhihu.com##.Question-sideColumn--sticky.Question-sideColumn
+! zhihu.com Mobile
+www.zhihu.com##.ModalExp-background
+www.zhihu.com##.ModalExp-modalShow.ModalExp-content
 !! zhuanlan.zhihu.com
 zhuanlan.zhihu.com##.ColumnPageHeader-Wrapper
 zhuanlan.zhihu.com##.Post-SideActions
