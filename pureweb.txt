@@ -1,5 +1,5 @@
 ! Title: pureweb
-! Expires: 5 days
+! Expires: 4 days
 ! Description: Content blocking filters for concise websites
 ! Homepage: https://github.com/Myuki/pureweb
 
@@ -108,6 +108,7 @@ www.zhihu.com##.Question-sideColumn--sticky.Question-sideColumn
 ! zhihu.com Mobile
 www.zhihu.com##.ModalExp-background
 www.zhihu.com##.ModalExp-modalShow.ModalExp-content
+www.zhihu.com##.PinOIABanner-warpper
 !! zhuanlan.zhihu.com
 zhuanlan.zhihu.com##.ColumnPageHeader-Wrapper
 zhuanlan.zhihu.com##.Post-SideActions
