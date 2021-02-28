@@ -58,7 +58,7 @@ cn.bing.com###b_context
 cn.bing.com###ev_talkbox_min
 cn.bing.com##.b_cards.tipContainer
 cn.bing.com##.b_mop.b_ans
-cn.bing.com##.ev_talkbox_notification
+cn.bing.com##.ev_talkbox_wrapper_min
 cn.bing.com##li.b_ans:nth-of-type(14)
 
 ! csdn.net
