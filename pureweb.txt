@@ -105,9 +105,7 @@ daily.zhihu.com##.ZhihuDailyOIABanner
 !! www.zhihu.com Desktop
 www.zhihu.com##.AppHeader.Sticky
 www.zhihu.com##.Question-sideColumn--sticky.Question-sideColumn
-! zhihu.com Mobile
-www.zhihu.com##.ModalExp-background
-www.zhihu.com##.ModalExp-modalShow.ModalExp-content
+! www.zhihu.com Mobile
 www.zhihu.com##.PinOIABanner-warpper
 !! zhuanlan.zhihu.com
 zhuanlan.zhihu.com##.ColumnPageHeader-Wrapper
