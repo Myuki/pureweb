@@ -60,6 +60,13 @@ cn.bing.com##.b_cards.tipContainer
 cn.bing.com##.b_mop.b_ans
 cn.bing.com##.ev_talkbox_wrapper_min
 cn.bing.com##li.b_ans:nth-of-type(14)
+!! www.bing.com
+www.bing.com###b_context
+www.bing.com###ev_talkbox_min
+www.bing.com##.b_cards.tipContainer
+www.bing.com##.b_mop.b_ans
+www.bing.com##.ev_talkbox_wrapper_min
+www.bing.com##li.b_ans:nth-of-type(14)
 
 ! csdn.net
 !! blog.csdn.net
