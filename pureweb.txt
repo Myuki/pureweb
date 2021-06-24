@@ -14,6 +14,7 @@ baike.baidu.com##.posterFlag
 baike.baidu.com##.side-content
 baike.baidu.com##.top-tool
 !! baike.baidu.com Mobile
+||baikebcs.bdimg.com/adpic/$image
 baike.baidu.com###J-extra-container
 baike.baidu.com###J-loft-edit
 baike.baidu.com###J-super-layer-promote
@@ -25,6 +26,7 @@ baike.baidu.com##.J-wgt-seconds-know-container
 baike.baidu.com##.audio-play
 baike.baidu.com##.college-head-video
 baike.baidu.com##.full-screen-second-container
+baike.baidu.com##.header-wrapper
 baike.baidu.com##.layout-icons_down-arrow
 baike.baidu.com##.layout-icons_more-horizontal.layout-icons
 baike.baidu.com##.rt-head
