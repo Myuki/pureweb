@@ -5,6 +5,7 @@
 
 ! baidu.com
 !! baike.baidu.com Desktop
+||bdimg.com/adpic/$image
 baike.baidu.com##.J-secondsknow-large-container
 baike.baidu.com##.cmn-btn-28.cmn-btn-hover-blue
 baike.baidu.com##.lemmaWgt-searchHeader
@@ -13,24 +14,6 @@ baike.baidu.com##.pc-header-new.header-wrapper
 baike.baidu.com##.posterFlag
 baike.baidu.com##.side-content
 baike.baidu.com##.top-tool
-!! baike.baidu.com Mobile
-||baikebcs.bdimg.com/adpic/$image
-baike.baidu.com###J-extra-container
-baike.baidu.com###J-loft-edit
-baike.baidu.com###J-super-layer-promote
-baike.baidu.com###J-tashuo-button-fixed
-baike.baidu.com##.BK-after-content-wrapper
-baike.baidu.com##.BK-body-header-wrapper
-baike.baidu.com##.J-news-container.news-container
-baike.baidu.com##.J-wgt-seconds-know-container
-baike.baidu.com##.audio-play
-baike.baidu.com##.college-head-video
-baike.baidu.com##.full-screen-second-container
-baike.baidu.com##.header-wrapper
-baike.baidu.com##.layout-icons_down-arrow
-baike.baidu.com##.layout-icons_more-horizontal.layout-icons
-baike.baidu.com##.rt-head
-baike.baidu.com##.tool-right-btn
 !! tieba.baidu.com Desktop
 tieba.baidu.com##.aside
 tieba.baidu.com##.j_search_nav.search_nav
@@ -40,6 +23,11 @@ tieba.baidu.com##.tieba-custom-pass-login
 !! tieba.baidu.com Mobile
 tieba.baidu.com##.title
 tieba.baidu.com##.nav-bar-wrapper
+!! wapbaike.baidu.com
+wapbaike.baidu.com###BK_before_content_wrapper > div[id$="12"][class$="9"]
+wapbaike.baidu.com##.BK-after-content-wrapper
+wapbaike.baidu.com##.tashuo-button-fixed
+wapbaike.baidu.com##.top-icon
 
 ! bilibili.com
 !! live.bilibili.com
